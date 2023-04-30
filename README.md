@@ -1,4 +1,4 @@
-# Week_1 Set-up
+# RWorkflow Workshops 2021
 
 To follow along with the material on your own computer, it is best if you can install the following on your computer:
 
